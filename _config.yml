@@ -11,7 +11,7 @@ sass:
 collections:
   posts:
     output          : true
-remote_theme        : pages-themes/dinky@v0.2.0
+theme               : jekyll-theme-dinky@v0.2.0
 
 # Handling Reading
 safe                : false
