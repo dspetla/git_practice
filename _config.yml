@@ -11,7 +11,7 @@ sass:
 collections:
   posts:
     output          : true
-theme               : jekyll-theme-minimal
+remote_theme        : pages-themes/dinky@v0.2.0
 
 # Handling Reading
 safe                : false
@@ -30,7 +30,7 @@ unpublished         : false
 
 # Plugins
 whitelist           : []
-plugins             : []
+plugins             : [jekyll-remote-theme]
 
 # Conversion
 markdown            : kramdown
