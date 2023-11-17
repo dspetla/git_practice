@@ -11,7 +11,7 @@ sass:
 collections:
   posts:
     output          : true
-theme               : jekyll-theme-slate
+theme               : jekyll-theme-minimal
 
 # Handling Reading
 safe                : false
